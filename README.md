@@ -33,7 +33,7 @@ cd CRUD-MDB
 npm install
 
 3. Configurar la base de datos: crear un archivo .env en la raíz con la siguiente variable:
-MONGODB_URI=mongodb://localhost:27017/crud-cursos
+MONGODB_URI=mongodb://localhost:27017/cursosDB
 
 4. Compilar y ejecutar el proyecto:
 
