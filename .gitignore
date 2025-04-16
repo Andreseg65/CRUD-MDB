@@ -1,5 +1,4 @@
 node_modules
 dist
 .env
-.DS_Store
 Ejercicios de CRUD en MongoDB Shell.pdf
